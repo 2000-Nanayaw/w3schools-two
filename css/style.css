@@ -1,0 +1,70 @@
+ .one {background-color: indigo; height:1000px; width: 400px;}
+    </style>
+    
+<div class="row">
+    <div class="col-lg-6">
+        <p style="font-size: 25px; color: black; margin-top:50px">An International Multi-level <br>company is looking<br> for new recruite to be <br>employed as workers</p>
+         <p><mark><b>JOB CATEGORIES<b></mark> are as follows::</p>
+         <div class="one">
+             <ol style="color: white; font-family: arial black; border-bottom: 2px solid white;">
+                 <li>BLOCK FACTORY</li>
+                 <li>TOILET ROLL</li>
+                 <li>OIL FACTORY</li>
+                 <li>OFFICE WORK</li>
+                 <li>HOTEL RECEPTIONIST</li>
+                 <li>FOOD VENDOR</li>
+                 <li>DELIVERY SERVICE</li>
+                 <li>LAUNDARY</li>
+                 <li>CHOPBAR</li>
+
+             </ol>
+             <form>
+            <label style="color: white; background-color: darkblue; margin-left: 15PX; border-radius: 10px;">
+                SIGN UP!!!
+            </label>
+        </form>
+        <textarea rows="4" cols="45" placeholder="Short description about yourself">
+            
+        </textarea>
+        <input type="submit" name="" onsubmit="">
+        
+         </div>
+        
+    </div>
+
+
+
+     <div class="col-lg-6">
+        <div class="card" style="width: 18rem;">
+  <img src="images/a6.PNG" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Office work are available</h5>
+    <p class="card-text">New recruitement are being done on 7th of every 3months</p>
+    </div>
+      </div>
+
+
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
